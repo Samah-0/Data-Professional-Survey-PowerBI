@@ -28,22 +28,23 @@ The dashboard was created as part of a data visualization learning journey, demo
 
 ## What’s Included
 
--Power BI Dashboard.
+- Power BI Dashboard.
 
--Cleaned Survey Dataset.
+- Cleaned Survey Dataset.
 
--Dashboard Screenshots.
+- Dashboard Screenshots.
 
 ## What are the Tools that are used ?
 
-Microsoft Power BI
+- Microsoft Power BI
 
-Power Query Editor
+- Power Query Editor
 
-Excel (data is taking from kaggel link )
+- Excel (data is taking from kaggel link )
 
 ## Screenshots for the Dashboard : 
 
-<img width="1345" height="807" alt="image" src="https://github.com/user-attachments/assets/cb6a5ece-d8a9-483e-bfa0-c43c17cc7030" />
+<img width="1336" height="773" alt="image" src="https://github.com/user-attachments/assets/3f7a15e3-2b2c-46da-919f-10ebaf521116" />
+
 
 
