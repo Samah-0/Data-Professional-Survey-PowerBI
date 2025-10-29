@@ -1,4 +1,4 @@
-## Data-Survey-Analyzing-PowerBI
+## Data-Professional-Survey-PowerBI
 
 By Samah Mohammed Ahmed
 
