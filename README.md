@@ -13,20 +13,18 @@ The dashboard was created as part of a data visualization learning journey, demo
 - Work-Life vs Salary Happiness:
   - Average Work-Life Balance (5.74) is higher than Salary Happiness (4.27). Most data professionals feel underpaid for their effort, even though they enjoy a balanced lifestyle.
 
-Impact of Salary on Happiness:
-Higher salaries greatly increase overall satisfaction — many see tough jobs as “worth it” when pay is good, while low pay drives unhappiness.
+- Impact of Salary on Happiness:
+  - Higher salaries greatly increase overall satisfaction — many see tough jobs as “worth it” when pay is good, while low pay drives unhappiness.
 
-Role-Based Satisfaction:
-Data Scientists (6.12) and Database Developers (5.68) report the highest satisfaction.
-Students/Job Seekers (4.12 ) are the least happy, mainly due to lower average salaries.
-Despite data science being hard to enter (1.59%), the high salary makes it rewarding.
+- Role-Based Satisfaction:
+  - Data Scientists (6.12) and Database Developers (5.68) report the highest satisfaction. Students/Job Seekers (4.12 ) are the least happy, mainly due to lower average salaries. Despite data science being hard to enter (1.59%), the high salary makes it rewarding.
 
-Programming Languages:
-Python is the clear favorite, followed by R.
-JavaScript and Java received very few votes.
+- Programming Languages:
+  - Python is the clear favorite, followed by R.
+  - JavaScript and Java received very few votes.
 
-Country Observation:
-Canada had the fewest survey participants (38 of 681) and no Database Developers among respondents.
+- Country Observation:
+  - Canada had the fewest survey participants (38 of 681) and no Database Developers among respondents.
 
 ## What’s Included
 
@@ -43,4 +41,9 @@ Microsoft Power BI
 Power Query Editor
 
 Excel (data is taking from kaggel link )
+
+## Screenshots for the Dashboard : 
+
+<img width="1345" height="807" alt="image" src="https://github.com/user-attachments/assets/cb6a5ece-d8a9-483e-bfa0-c43c17cc7030" />
+
 
